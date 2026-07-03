@@ -1,10 +1,8 @@
 <div align="center">
 
-# Hi, I'm Tarun Raju M
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f2027,50:203a43,100:2c5364&text=Tarun%20Raju%20M&fontSize=55&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20Frontend%20Developer&descAlignY=60&descSize=22"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:6a11cb,50:2575fc,100:00d4ff&text=Tarun%20Raju%20M&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Frontend%20Developer&descAlignY=60&descSize=22"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=🤖+AI+Engineer;💻+Frontend+Developer;AI+Student;Building+Creative+Projects;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3500&pause=800&color=00F5FF&center=true&vCenter=true&width=800&lines=🤖+AI+Engineer;💻+Frontend+Developer;🚀+Building+Creative+Projects;🌱+Always+Learning+New+Technologies"/>
 
 <img src="https://komarev.com/ghpvc/?username=Tarun1210-M&style=for-the-badge&color=blueviolet"/>
 
@@ -12,71 +10,60 @@
 
 ---
 
-#  About Me
+# 👨‍💻 About Me
 
- **B.Tech Computer Science Student** at **SRM Institute of Science and Technology (KTR Campus)**
+```python
+class TarunRaju:
 
- Passionate about **Artificial Intelligence**, **Machine Learning**, and **Software Development**
+    name = "Tarun Raju M"
 
- Frontend Developer creating modern and responsive web applications
+    college = "SRM Institute of Science and Technology, KTR"
 
-📖 Currently improving my skills in **DSA**, **Python**, and **Full Stack Development**
+    role = [
+        "AI Engineer",
+        "Frontend Developer"
+    ]
 
-🎯 Goal: Become an AI Engineer at a top product-based company.
+    skills = [
+        "Python",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "DSA",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Next.js"
+    ]
 
----
-
-#  Skills
-
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,javascript"/>
-</p>
-
-### AI & Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-</p>
-
-- Artificial Intelligence
-- Machine Learning
-- Data Structures & Algorithms
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs"/>
-</p>
-
-### Backend & Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
-</p>
+    motto = "Code • Learn • Build • Repeat 🚀"
+```
 
 ---
 
-#  GitHub Stats
+# ⚡ Tech Stack
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tarun1210-M&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun1210-M&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=python,html,css,js,react,nextjs,nodejs,mongodb,git,github,vscode"/>
 
 </p>
 
 ---
 
-#  GitHub Streak
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tarun1210-M&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun1210-M&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -86,7 +73,7 @@
 
 ---
 
-# Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -96,75 +83,50 @@
 
 ---
 
-# GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Tarun1210-M&theme=algolia&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Tarun1210-M&theme=algolia&no-frame=true&margin-w=15"/>
 
 </p>
 
 ---
 
-# Featured Projects
+# 🚀 Featured Projects
 
-## Blog Website
-
-Rich Text Editor
-
-SEO Friendly
-
-MongoDB Database
-
-Next.js
-
-Responsive UI
+| Project | Description |
+|---------|-------------|
+| 🤖 AI Resume Validator | AI-powered ATS Resume Checker |
+| 📝 Blog Website | Next.js + MongoDB Blogging Platform |
+| 🚌 Bus Ticket Booking | Smart Ticket Booking System |
+| 🏫 College Management System | Complete Student & Faculty Portal |
 
 ---
 
-## Bus Ticket Booking System
+# 🌱 Currently Learning
 
-Ticket Booking
-
-Payment Integration
-
-Responsive Interface
-
----
-
-## AI Resume Validator
-
-Resume Analysis
-
-AI-based Suggestions
-
-ATS Score
-
----
-
-## College Management System
-
-Student Portal
-
-Faculty Dashboard
-
-Library Management
-
-Fee Management
-
----
-
-# Currently Learning
-
-- Advanced Machine Learning
+- Artificial Intelligence
+- Machine Learning
 - Deep Learning
-- Generative AI
-- System Design
+- Data Structures & Algorithms
 - Full Stack Development
 
 ---
 
-# Connect With Me
+# 🎯 2026 Goals
+
+✅ Build 20+ Projects
+
+✅ Master AI & ML
+
+✅ Solve 500+ DSA Problems
+
+✅ Open Source Contributor
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -172,11 +134,15 @@ Fee Management
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+&nbsp;&nbsp;
+
+<a href="mailto:YOURMAIL@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
@@ -184,12 +150,16 @@ Fee Management
 
 ---
 
-<div align="center">
+<p align="center">
 
-## 💙 Thanks for Visiting!
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tarun1210-M&theme=react-dark"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!;Have+a+Great+Day!;Let's+Build+Something+Awesome!"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:6a11cb,50:2575fc,100:00d4ff"/>
+---
 
-</div>
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:0f2027,50:203a43,100:2c5364&height=120"/>
+
+</p>
