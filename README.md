@@ -1,47 +1,48 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f2027,50:203a43,100:2c5364&text=Tarun%20Raju%20M&fontSize=55&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20Frontend%20Developer&descAlignY=60&descSize=22"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:1E3A8A,100:38BDF8&text=Tarun%20Raju%20M&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20|%20Frontend%20Developer&descAlignY=62&descSize=22"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3500&pause=800&color=00F5FF&center=true&vCenter=true&width=800&lines=🤖+AI+Engineer;💻+Frontend+Developer;🚀+Building+Creative+Projects;🌱+Always+Learning+New+Technologies"/>
+<h2>Building AI Solutions & Modern Web Applications</h2>
 
-<img src="https://komarev.com/ghpvc/?username=Tarun1210-M&style=for-the-badge&color=blueviolet"/>
+<p>
+AI • Machine Learning • Python • Frontend Development
+</p>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## About Me
 
 ```python
 class TarunRaju:
 
     name = "Tarun Raju M"
 
-    college = "SRM Institute of Science and Technology, KTR"
+    education = "SRM Institute of Science and Technology (KTR)"
 
     role = [
         "AI Engineer",
         "Frontend Developer"
     ]
 
-    skills = [
-        "Python",
+    interests = [
         "Artificial Intelligence",
         "Machine Learning",
-        "DSA",
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "React",
-        "Next.js"
+        "Web Development",
+        "Data Structures & Algorithms"
     ]
 
-    motto = "Code • Learn • Build • Repeat 🚀"
+    currently_learning = [
+        "Deep Learning",
+        "Generative AI",
+        "System Design"
+    ]
 ```
 
 ---
 
-# ⚡ Tech Stack
+## Tech Stack
 
 <p align="center">
 
@@ -51,82 +52,60 @@ class TarunRaju:
 
 ---
 
-# 📊 GitHub Stats
+## GitHub Statistics
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tarun1210-M&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tarun1210-M&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun1210-M&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun1210-M&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## Contribution Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Tarun1210-M&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Tarun1210-M&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## Activity Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tarun1210-M&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tarun1210-M&theme=github-dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## Featured Projects
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Tarun1210-M&theme=algolia&no-frame=true&margin-w=15"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🤖 AI Resume Validator | AI-powered ATS Resume Checker |
-| 📝 Blog Website | Next.js + MongoDB Blogging Platform |
-| 🚌 Bus Ticket Booking | Smart Ticket Booking System |
-| 🏫 College Management System | Complete Student & Faculty Portal |
+| Project | Technology |
+|----------|------------|
+| AI Resume Validator | AI, Python |
+| Blog Website | Next.js, MongoDB |
+| Bus Ticket Booking | JavaScript |
+| College Management System | MERN Stack |
 
 ---
 
-# 🌱 Currently Learning
+## Current Focus
 
 - Artificial Intelligence
 - Machine Learning
-- Deep Learning
+- Frontend Engineering
 - Data Structures & Algorithms
-- Full Stack Development
+- Open Source
 
 ---
 
-# 🎯 2026 Goals
-
-✅ Build 20+ Projects
-
-✅ Master AI & ML
-
-✅ Solve 500+ DSA Problems
-
-✅ Open Source Contributor
-
----
-
-# 🌐 Connect With Me
+## Connect
 
 <p align="center">
 
@@ -134,15 +113,11 @@ class TarunRaju:
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="YOUR_LINKEDIN_URL">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-&nbsp;&nbsp;
-
-<a href="mailto:YOURMAIL@gmail.com">
+<a href="mailto:YOUR_EMAIL">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
@@ -150,16 +125,10 @@ class TarunRaju:
 
 ---
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tarun1210-M&theme=react-dark"/>
+"Code with purpose. Learn continuously. Build intelligently."
 
-</p>
+</div>
 
----
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:0f2027,50:203a43,100:2c5364&height=120"/>
-
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F172A,50:1E3A8A,100:38BDF8"/>
