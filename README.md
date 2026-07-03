@@ -1,6 +1,5 @@
 <div align="center">
 
-# 👋 Hi, I'm Tarun Raju M
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:6a11cb,50:2575fc,100:00d4ff&text=Tarun%20Raju%20M&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Student%20•%20Frontend%20Developer&descAlignY=60&descSize=22"/>
 
