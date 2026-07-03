@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:6a11cb,50:2575fc,100:00d4ff&text=Tarun%20Raju%20M&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Student%20
+# 👋 Hi, I'm Tarun Raju M
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:6a11cb,50:2575fc,100:00d4ff&text=Tarun%20Raju%20M&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Frontend%20Developer&descAlignY=60&descSize=22"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=🤖+AI+Engineer;💻+Frontend+Developer;📚+Computer+Science+Student;🚀+Building+Creative+Projects;🌱+Always+Learning+New+Technologies"/>
 
