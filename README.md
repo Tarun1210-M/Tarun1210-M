@@ -11,36 +11,13 @@ AI • Machine Learning • Python • Frontend Development
 </div>
 
 ---
-
 ## About Me
 
-```python
-class TarunRaju:
+AI Engineer and Frontend Developer passionate about building intelligent software and modern web applications.
 
-    name = "Tarun Raju M"
+Currently pursuing Computer Science at SRM Institute of Science and Technology (KTR), with a strong interest in Artificial Intelligence, Machine Learning, Python, and Data Structures & Algorithms.
 
-    education = "SRM Institute of Science and Technology (KTR)"
-
-    role = [
-        "AI Engineer",
-        "Frontend Developer"
-    ]
-
-    interests = [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Web Development",
-        "Data Structures & Algorithms"
-    ]
-
-    currently_learning = [
-        "Deep Learning",
-        "Generative AI",
-        "System Design"
-    ]
-```
-
----
+I enjoy turning ideas into real-world projects and continuously learning new technologies.
 
 ## Tech Stack
 
