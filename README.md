@@ -1,88 +1,184 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:1E3A8A,100:38BDF8&text=Tarun%20Raju%20M&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20|%20Frontend%20Developer&descAlignY=62&descSize=22"/>
+# 👋 Hi, I'm Tarun Raju M
 
-<h2>Building AI Solutions & Modern Web Applications</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:6a11cb,50:2575fc,100:00d4ff&text=Tarun%20Raju%20M&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Frontend%20Developer&descAlignY=60&descSize=22"/>
 
-<p>
-AI • Machine Learning • Python • Frontend Development
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=🤖+AI+Engineer;💻+Frontend+Developer;📚+Computer+Science+Student;🚀+Building+Creative+Projects;🌱+Always+Learning+New+Technologies"/>
+
+<img src="https://komarev.com/ghpvc/?username=Tarun1210-M&style=for-the-badge&color=blueviolet"/>
 
 </div>
 
 ---
-## About Me
 
-AI Engineer and Frontend Developer passionate about building intelligent software and modern web applications.
+# 🚀 About Me
 
-Currently pursuing Computer Science at SRM Institute of Science and Technology (KTR), with a strong interest in Artificial Intelligence, Machine Learning, Python, and Data Structures & Algorithms.
+🎓 **B.Tech Computer Science Student** at **SRM Institute of Science and Technology (KTR Campus)**
 
-I enjoy turning ideas into real-world projects and continuously learning new technologies.
+🤖 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Software Development**
 
-## Tech Stack
+💻 Frontend Developer creating modern and responsive web applications
 
-<p align="center">
+📖 Currently improving my skills in **DSA**, **Python**, and **Full Stack Development**
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,react,nextjs,nodejs,mongodb,git,github,vscode"/>
+🎯 Goal: Become an AI Engineer at a top product-based company.
 
+---
+
+# 🧑‍💻 Skills
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,javascript"/>
 </p>
 
----
+### AI & Machine Learning
 
-## GitHub Statistics
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tarun1210-M&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun1210-M&layout=compact&theme=github_dark&hide_border=true"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 </p>
-
----
-
-## Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Tarun1210-M&theme=github-dark-blue&hide_border=true"/>
-
-</p>
-
----
-
-## Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tarun1210-M&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-## Featured Projects
-
-| Project | Technology |
-|----------|------------|
-| AI Resume Validator | AI, Python |
-| Blog Website | Next.js, MongoDB |
-| Bus Ticket Booking | JavaScript |
-| College Management System | MERN Stack |
-
----
-
-## Current Focus
 
 - Artificial Intelligence
 - Machine Learning
-- Frontend Engineering
 - Data Structures & Algorithms
-- Open Source
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs"/>
+</p>
+
+### Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
+</p>
 
 ---
 
-## Connect
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tarun1210-M&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun1210-M&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Tarun1210-M&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tarun1210-M&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Tarun1210-M&theme=algolia&row=2&column=4"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 📝 Blog Website
+
+✨ Rich Text Editor
+
+✨ SEO Friendly
+
+✨ MongoDB Database
+
+✨ Next.js
+
+✨ Responsive UI
+
+---
+
+## 🎫 Bus Ticket Booking System
+
+🚌 Ticket Booking
+
+💳 Payment Integration
+
+📱 Responsive Interface
+
+---
+
+## 🤖 AI Resume Validator
+
+📄 Resume Analysis
+
+🧠 AI-based Suggestions
+
+📈 ATS Score
+
+---
+
+## 🏫 College Management System
+
+👨‍🎓 Student Portal
+
+👩‍🏫 Faculty Dashboard
+
+📚 Library Management
+
+💰 Fee Management
+
+---
+
+# 🌟 Currently Learning
+
+- Advanced Machine Learning
+- Deep Learning
+- Generative AI
+- System Design
+- Full Stack Development
+
+---
+
+# 🎯 2026 Goals
+
+✅ Solve 500+ DSA Problems
+
+✅ Build 20+ Projects
+
+✅ Master AI & Machine Learning
+
+✅ Contribute to Open Source
+
+✅ Secure a Software/AI Internship
+
+---
+
+# 📫 Connect With Me
 
 <p align="center">
 
@@ -90,11 +186,11 @@ I enjoy turning ideas into real-world projects and continuously learning new tec
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:yourmail@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
@@ -104,8 +200,10 @@ I enjoy turning ideas into real-world projects and continuously learning new tec
 
 <div align="center">
 
-"Code with purpose. Learn continuously. Build intelligently."
+## 💙 Thanks for Visiting!
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!;Have+a+Great+Day!;Let's+Build+Something+Awesome!"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:6a11cb,50:2575fc,100:00d4ff"/>
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F172A,50:1E3A8A,100:38BDF8"/>
