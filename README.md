@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:6a11cb,50:2575fc,100:00d4ff&text=Tarun%20Raju%20M&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Frontend%20Developer&descAlignY=60&descSize=22"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=🤖+AI+Engineer;💻+Frontend+Developer;📚+Computer+Science+Student;🚀+Building+Creative+Projects;🌱+Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=🤖+AI+Engineer;💻+Frontend+Developer;AI+Student;Building+Creative+Projects;Always+Learning+New+Technologies"/>
 
 <img src="https://komarev.com/ghpvc/?username=Tarun1210-M&style=for-the-badge&color=blueviolet"/>
 
@@ -108,17 +108,17 @@
 
 # Featured Projects
 
-## 📝 Blog Website
+## Blog Website
 
-✨ Rich Text Editor
+Rich Text Editor
 
-✨ SEO Friendly
+SEO Friendly
 
-✨ MongoDB Database
+MongoDB Database
 
-✨ Next.js
+Next.js
 
-✨ Responsive UI
+Responsive UI
 
 ---
 
@@ -132,7 +132,7 @@ Responsive Interface
 
 ---
 
-## 🤖 AI Resume Validator
+## AI Resume Validator
 
 Resume Analysis
 
@@ -142,7 +142,7 @@ ATS Score
 
 ---
 
-## 🏫 College Management System
+## College Management System
 
 Student Portal
 
@@ -161,20 +161,6 @@ Fee Management
 - Generative AI
 - System Design
 - Full Stack Development
-
----
-
-#  2026 Goals
-
-✅ Solve 500+ DSA Problems
-
-✅ Build 20+ Projects
-
-✅ Master AI & Machine Learning
-
-✅ Contribute to Open Source
-
-✅ Secure a Software/AI Internship
 
 ---
 
