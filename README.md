@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Tarun Raju M
+# Hi, I'm Tarun Raju M
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:6a11cb,50:2575fc,100:00d4ff&text=Tarun%20Raju%20M&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Frontend%20Developer&descAlignY=60&descSize=22"/>
 
@@ -12,13 +12,13 @@
 
 ---
 
-# 🚀 About Me
+#  About Me
 
-🎓 **B.Tech Computer Science Student** at **SRM Institute of Science and Technology (KTR Campus)**
+ **B.Tech Computer Science Student** at **SRM Institute of Science and Technology (KTR Campus)**
 
-🤖 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Software Development**
+ Passionate about **Artificial Intelligence**, **Machine Learning**, and **Software Development**
 
-💻 Frontend Developer creating modern and responsive web applications
+ Frontend Developer creating modern and responsive web applications
 
 📖 Currently improving my skills in **DSA**, **Python**, and **Full Stack Development**
 
@@ -26,7 +26,7 @@
 
 ---
 
-# 🧑‍💻 Skills
+#  Skills
 
 ### Programming Languages
 
@@ -64,7 +64,7 @@
 
 ---
 
-# 📈 GitHub Stats
+#  GitHub Stats
 
 <p align="center">
 
@@ -76,7 +76,7 @@
 
 ---
 
-# 🔥 GitHub Streak
+#  GitHub Streak
 
 <p align="center">
 
@@ -86,7 +86,7 @@
 
 ---
 
-# 📊 Contribution Graph
+# Contribution Graph
 
 <p align="center">
 
@@ -96,7 +96,7 @@
 
 ---
 
-# 🏆 GitHub Trophies
+# GitHub Trophies
 
 <p align="center">
 
@@ -106,7 +106,7 @@
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 ## 📝 Blog Website
 
@@ -122,39 +122,39 @@
 
 ---
 
-## 🎫 Bus Ticket Booking System
+## Bus Ticket Booking System
 
-🚌 Ticket Booking
+Ticket Booking
 
-💳 Payment Integration
+Payment Integration
 
-📱 Responsive Interface
+Responsive Interface
 
 ---
 
 ## 🤖 AI Resume Validator
 
-📄 Resume Analysis
+Resume Analysis
 
-🧠 AI-based Suggestions
+AI-based Suggestions
 
-📈 ATS Score
+ATS Score
 
 ---
 
 ## 🏫 College Management System
 
-👨‍🎓 Student Portal
+Student Portal
 
-👩‍🏫 Faculty Dashboard
+Faculty Dashboard
 
-📚 Library Management
+Library Management
 
-💰 Fee Management
+Fee Management
 
 ---
 
-# 🌟 Currently Learning
+# Currently Learning
 
 - Advanced Machine Learning
 - Deep Learning
@@ -164,7 +164,7 @@
 
 ---
 
-# 🎯 2026 Goals
+#  2026 Goals
 
 ✅ Solve 500+ DSA Problems
 
@@ -178,7 +178,7 @@
 
 ---
 
-# 📫 Connect With Me
+# Connect With Me
 
 <p align="center">
 
