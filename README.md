@@ -13,15 +13,15 @@
 
 # 🚀 About Me
 
-🎓 **B.Tech Computer Science Student** at **SRM Institute of Science and Technology (KTR Campus)**
+ **B.Tech AI Student** at **SRM Institute of Science and Technology (KTR Campus)**
 
-🤖 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Software Development**
+ Passionate about **Artificial Intelligence**, **Machine Learning**, and **Software Development**
 
-💻 Frontend Developer creating modern and responsive web applications
+ Frontend Developer creating modern and responsive web applications
 
-📖 Currently improving my skills in **DSA**, **Python**, and **Full Stack Development**
+ Currently improving my skills in **DSA**, **Python**, and **Full Stack Development**
 
-🎯 Goal: Become an AI Engineer at a top product-based company.
+ Goal: Become an AI Engineer at a top product-based company.
 
 ---
 
